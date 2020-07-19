@@ -1,2 +1,2 @@
-int64 timestamp
+float64 timestamp
 byte[] data
